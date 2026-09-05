@@ -1,0 +1,11 @@
+{
+  "pororo.welcome": "Pororo Learning Island is ready!",
+  "pororo.commands": "Try /pororo lesson or /pororo lang <ko|en|uk>.",
+  "pororo.players_only": "This activity is for players.",
+  "pororo.lesson.title": "Lesson 1: Count the fish",
+  "pororo.lesson.step": "Learning stars: %s",
+  "pororo.lesson.prompt": "Find three fish, then tell your teacher the number.",
+  "pororo.language.invalid": "Choose ko, en, or uk.",
+  "pororo.language.changed": "Language preference saved: %s",
+  "pororo.language.note": "Minecraft language files provide the translated classroom text."
+}

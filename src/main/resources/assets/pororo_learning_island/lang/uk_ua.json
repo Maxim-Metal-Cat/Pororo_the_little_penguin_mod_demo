@@ -1,0 +1,11 @@
+{
+  "pororo.welcome": "Вітаємо на навчальному острові Пороро!",
+  "pororo.commands": "Спробуйте /pororo lesson або /pororo lang <ko|en|uk>.",
+  "pororo.players_only": "Ця вправа доступна лише гравцям.",
+  "pororo.lesson.title": "Урок 1: Порахуємо рибок",
+  "pororo.lesson.step": "Навчальні зірки: %s",
+  "pororo.lesson.prompt": "Знайдіть трьох рибок і назвіть число вчителю.",
+  "pororo.language.invalid": "Оберіть ko, en або uk.",
+  "pororo.language.changed": "Мову збережено: %s",
+  "pororo.language.note": "Переклад тексту для класу працює через мовні файли Minecraft."
+}
