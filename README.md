@@ -7,7 +7,7 @@ This prototype combines the beloved universe of *Pororo the Little Penguin* with
 
 ## Key Features & Vision
 * **Educational Worlds:** Monthly themed interactive learning worlds for children.
-* **AI Assistant ("Клова"):** Embedded helper integrated to guide players through educational tasks.
+* **AI Assistant ("Clova"):** Embedded helper integrated to guide players through educational tasks.
 * **Custom Content:** Unique items, mechanics, and an exclusive in-game cape via the proposed **Pororo+** subscription model.
 
 ## Technical Stack
